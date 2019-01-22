@@ -1,2 +1,0 @@
-# cmsassignment2
-plugin
